@@ -38,6 +38,7 @@ def generate_coupons
 	end
 end
 
+
 cart = generate_cart
 coupons = generate_coupons
 
